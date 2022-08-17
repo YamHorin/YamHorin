@@ -5,7 +5,7 @@ I'm 23 years old , learnin Academic bs degree in software engineering at Afka Co
 - 🌱 I’m currently learning HTML , CSS, JAVASCRIPT and SQL
 - 👯 I’m looking to collaborate on development backend intership or something like that (LOL)
 - 📫 How to reach me: EMAIL : horinyam@gmail.com /linkin -@Yam_Horin
-⚡ Fun fact: I've seen the last season of Avatar the Last Airbender over fifty times
+- ⚡ Fun fact: I've seen the last season of Avatar the Last Airbender over fifty times
 ###
 <!--
 **YamHorin/YamHorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
