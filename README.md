@@ -1,6 +1,6 @@
 my name is Yam Horin 
 I'm 23 years old, learning software engineering at Afka College of Engineering.
-- 🔭 I’m currently working on a Phyton/java project for myself
+- 🔭 I’m currently working on a Phyton/java projects for myself
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, Phyton, and SQL
 - 👯 I’m looking to collaborate on a development backend internships or something like that (LOL)
 - 📫 How to reach me: EMAIL: horinyam@gmail.com ,linkedin-@Yam_Horin
