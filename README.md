@@ -1,5 +1,5 @@
 my name is Yam Horin 
-I'm 23 years old, learning software engineering at Afka College of Engineering (year 2).
+I'm 23 years old, learning software engineering at Afka College of Engineering (year 2). /n
 I code in java , python & c# 😄
 - 🔭 I’m currently working on a Phyton/java projects for myself
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, Phyton, and SQL
