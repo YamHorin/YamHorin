@@ -5,7 +5,7 @@ I code in java , python & c# 😄
 - 🔭 I’m currently working on a Phyton/java projects for myself
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, Phyton, and SQL
 - 👯 I’m looking to collaborate on a development backend internships or something like that (LOL)
-- 📫 How to reach me: EMAIL: horinyam@gmail.com ,linkedin-@Yam_Horin
+- 📫 How to reach me: EMAIL: horinyam@gmail.com ,linkedin: https://www.linkedin.com/in/yam-horin-060088210/
 - ⚡ Fun fact: I've seen the last season of Avatar the Last Airbender over fifty times
 ###
 <!--
