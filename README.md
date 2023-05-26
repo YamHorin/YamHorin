@@ -3,10 +3,9 @@ I'm 23 years old, learning software engineering at Afka College of Engineering (
 
 I code in java , python, c 😄
 - 🔭 I’m currently working on a Phyton/java/C projects for myself
-- 🌱 I’m currently learning code in college and myself
 - 👯 I’m looking to collaborate on a development backend or AI development or something at all (LOL)
 - 📫 How to reach me: EMAIL: horinyam@gmail.com ,linkedin: https://www.linkedin.com/in/yam-horin/
-- ⚡ Fun fact: I've seen Avatar the Last Airbender over fifty times
+
 ###
 <!--
 **YamHorin/YamHorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
