@@ -1,5 +1,4 @@
- Yam Horin 
-learning software engineering at Afka College of Engineering (year 2). 
+ software engineering at Afka College of Engineering (year 2). 
 
 I code in java , python and c 😄
 - 🔭 I’m currently working on a Phyton/java/C projects for myself
