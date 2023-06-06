@@ -1,9 +1,9 @@
 my name is Yam Horin 
 I'm 23 years old, learning software engineering at Afka College of Engineering (year 2). 
 
-I code in java , python, c 😄
+I code in java , python and c 😄
 - 🔭 I’m currently working on a Phyton/java/C projects for myself
-- 👯 I’m looking to collaborate on a development backend or AI development or something at all (LOL)
+- 💬 I’m looking to collaborate on a development backend or AI development
 - 📫 How to reach me: EMAIL: horinyam@gmail.com ,linkedin: https://www.linkedin.com/in/yam-horin/
 
 ###
