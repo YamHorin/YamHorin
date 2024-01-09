@@ -1,7 +1,7 @@
  software engineering at Afka College of Engineering (year 2). 
 
 I code in java , python and c 😄
-- 🔭 I’m currently working on a Phyton/java/C projects for myself
+- 🔭 I’m currently working on a Phyton/java/C projects for myself/college
 - 💬 I’m looking to collaborate on a development backend or AI development
 - 📫 How to reach me: EMAIL: horinyam@gmail.com ,linkedin: https://www.linkedin.com/in/yam-horin/
 
