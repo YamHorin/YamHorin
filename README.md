@@ -3,10 +3,16 @@
 # hi my name is Yam 🙌 
 # software engineering student year 3 at Afeka College of Engineering  
 
-- 💬 I’m looking to collaborate on a development backend or AI development
-- 📫 How to reach me: EMAIL: horinyam@gmail.com ,linkedin: https://www.linkedin.com/in/yam-horin
-- 🌱 I’m currently learning mechine learning & deep learning with pytorch
-  
+💬 Welcome to my Git Hob README! 💬
+
+💡 I'm excited and open to collaboration, particularly in the realms of backend development or AI development 💻
+
+📫 If you want to get in touch, feel free to reach out to me via email at horinyam@gmail.com. You can also find me on LinkedIn: https://www.linkedin.com/in/yam-horin. 🌐
+
+🌱 Currently, delving into the fascinating worlds of machine learning and deep learning with a focus on PyTorch plus some other stuff. 🚀
+
+Feel free to explore my repositories and don't hesitate to drop me a message! 🤖🚀
+
 # my skill set 😄
 <div align="center">  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
