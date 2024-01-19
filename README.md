@@ -5,7 +5,7 @@
 
 💬 Welcome to my Git Hob README! 💬
 
-💡 I'm excited and open to collaboration, particularly in the realms of backend development or AI development 💻
+💡 I'm excited and open to work, particularly in the realms of backend development or AI development 💻
 
 📫 If you want to get in touch, feel free to reach out to me via email at horinyam@gmail.com. You can also find me on LinkedIn: https://www.linkedin.com/in/yam-horin. 🌐
 
