@@ -3,7 +3,7 @@
 # hi my name is Yam 🙌 
 # software engineering student year 3 at Afeka College of Engineering  
 
-💬 Welcome to my Git Hob README! 💬
+💬 Welcome
 
 💡 I'm excited and open to work, particularly in the realms of backend development or AI development 💻
 
