@@ -9,7 +9,7 @@
 
 📫 If you want to get in touch, feel free to reach out to me via email at horinyam@gmail.com. You can also find me on LinkedIn: https://www.linkedin.com/in/yam-horin. 🌐
 
-🌱 Currently, delving into the fascinating worlds of machine learning and deep learning with a focus on PyTorch plus some other stuff. 🚀
+🌱 Currently, delving into the fascinating worlds of machine learning and deep learning and some other stuff. 🚀
 
 Feel free to explore my repositories and don't hesitate to drop me a message! 🤖🚀
 
