@@ -32,7 +32,6 @@ Feel free to explore my repositories and don't hesitate to drop me a message! �
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamHorin&hide_border=true&layout=compact" align="center" />
 <br/>
 <br/>  
-<img src ="https://github-readme-stats.vercel.app/api?username=YamHorin&show_icons=true&count_private=true&hide_border=true" align ="cebnter">
 <!--
 **YamHorin/YamHorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
