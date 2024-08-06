@@ -11,7 +11,7 @@
 
 📫 If you want to get in touch, feel free to reach out to me via email at horinyam@gmail.com.   
 
-<a href="https://www.linkedin.com/in/yam-horin"> You can also find me on LinkedIn </a> 🌐
+🌐 <a href="https://www.linkedin.com/in/yam-horin"> You can also find me on LinkedIn  </a> 
 
 Feel free to explore my repositories and don't hesitate to drop me a message! 🤖🚀
 
