@@ -5,6 +5,8 @@
 
 💬 Welcome
 
+🌱 I’m currently a third-year software engineering student specializing in Machine Learning and AI, while actively developing my skills in various programming environments.
+
 💡 I'm open to work, particularly in the realms of backend development or AI development 💻
 
 📫 If you want to get in touch, feel free to reach out to me via email at horinyam@gmail.com.   
