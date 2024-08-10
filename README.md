@@ -32,7 +32,6 @@ Feel free to explore my repositories and don't hesitate to drop me a message! ðŸ
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="springBoot" height="52" /></a>  
 </div>  
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamHorin&theme=great_gatsby) 
 <!--
 # Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamHorin&hide_border=true&layout=compact" align="center" />
