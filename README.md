@@ -32,24 +32,9 @@ Feel free to explore my repositories and don't hesitate to drop me a message! �
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="springBoot" height="52" /></a>  
 </div>  
 
-<!--
-# Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamHorin&hide_border=true&layout=compact" align="center" />
-<br/>
-<br/> 
--->
-
-<!--
-**YamHorin/YamHorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/YamHorin/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YamHorin&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/YamHorin/YamHorin.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YamHorin&repo=anuraghazra.github.io&theme=buefy" />
+</a>
