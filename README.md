@@ -5,7 +5,7 @@
 
 💬 Welcome
 
-🌱 I’m currently a third-year software engineering student specializing in Machine Learning and AI, while actively developing my skills in various programming environments.
+🌱 I’m currently a third-year B.Sc. in software engineering specializing in Machine Learning and AI, while actively developing my skills in various programming environments.
 
 💡 I'm open to work, particularly in the realms of backend development or AI development 💻
 
@@ -37,5 +37,5 @@ Feel free to explore my repositories and don't hesitate to drop me a message! �
 <br />
 
 # stats
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamHorin&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamHorin&layout=compact&theme=buefy&hide_border=true" /></a> 
 
