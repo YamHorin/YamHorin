@@ -1,11 +1,11 @@
 
 
+
 # hi my name is Yam 🙌 
-# software engineering student year 3 at Afeka College of Engineering  
 
-💬 Welcome
+💬  welcome 
 
-🌱 I’m currently a third-year B.Sc. in software engineering specializing in Machine Learning and AI, while actively developing my skills in various programming environments.
+🌱 currently a third-year B.Sc. in software engineering specializing in Machine Learning and AI, while actively developing    my skills in various programming environments.
 
 💡 I'm open to work, particularly in the realms of backend development or AI development 💻
 
@@ -13,9 +13,9 @@
 
 🌐 <a href="https://www.linkedin.com/in/yam-horin"> You can also find me on LinkedIn  </a> 
 
-Feel free to explore my repositories and don't hesitate to drop me a message! 🤖🚀
+🤖 Feel free to explore my repositories and don't hesitate to drop me a message! 
 
-# my skill set 😄
+# my skill set 😍
 <div align="center">  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
  <a href="https://www.java.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -33,9 +33,9 @@ Feel free to explore my repositories and don't hesitate to drop me a message! �
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="springBoot" height="52" /></a>  
 </div>  
 
-<br />
-<br />
 
 # stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamHorin&layout=compact&theme=buefy&hide_border=true" /></a> 
+![Yam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YamHorin&theme=vue&show_icons=true)
+
+
 
