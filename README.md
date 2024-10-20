@@ -5,7 +5,7 @@
 
 💬  welcome 
 
-🌱 currently a third-year B.Sc. in software engineering specializing in Machine Learning and AI, while actively developing    my skills in various programming environments.
+🌱 currently in finale-year B.Sc. in software engineering specializing in Machine Learning and AI, while actively developing    my skills in various programming environments.
 
 💡 I'm open to work, particularly in the realms of backend development or AI development 💻
 
