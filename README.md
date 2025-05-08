@@ -22,7 +22,8 @@
  <a href="https://www.java.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
- <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/800px-Android_Studio_Logo_%282023%29.svg.png" alt="android studio" height="50" /></a>  
+ <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/800px-Android_Studio_Logo_%282023%29.svg.png" alt="android studio" height="50" /></a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img style="margin: 15px" src="https://assets.codeguru.com/uploads/2003/02/C-tutorials.jpg" alt="C++" height="50" /></a>  
 
 </div>  
 
