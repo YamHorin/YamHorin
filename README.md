@@ -33,6 +33,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="springBoot" height="50" /></a>  
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="springBoot" height="52" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/800px-Webysther_20160423_-_Elephpant.svg.png" alt="php" height="52" /></a>
 </div>  
 
 # my projects over the years 
