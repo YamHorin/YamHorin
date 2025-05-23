@@ -7,7 +7,7 @@
 
 🌱 currently in finale-year B.Sc. in software engineering specializing in Machine Learning and AI, while actively developing    my skills in various programming environments.
 
-💡 I'm open to work, particularly in the realms of backend development or AI development 💻
+💡 I'm open to work, particularly in the realms of front development, backend development or AI development 💻
 
 🌐 <a href="https://www.linkedin.com/in/yam-horin"> You can also find me on LinkedIn  </a> 
 
