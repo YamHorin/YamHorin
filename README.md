@@ -13,7 +13,7 @@
 
 🤖 Feel free to explore my repositories and don't hesitate to drop me a message! 
 
-# my skill set 😍
+# my skill set ^_^
 <div align="center">  
  <a href="https://firebase.google.com" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="pytorch" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
