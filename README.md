@@ -5,7 +5,9 @@
 
 💬  welcome 
 
-🌱 currently in finale-year B.Sc. in software engineering specializing in Machine Learning and AI, while actively developing    my skills in various programming environments.
+🙌 currently working as a BI developer 
+
+🌱 currently in finale-year B.Sc. in software engineering specializing in Machine Learning and AI, while actively developing my skills in various programming environments.
 
 💡 I'm open to work, particularly in the realms of front development, backend development or AI development 💻
 
