@@ -24,7 +24,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
  <a href="https://www.w3schools.com/cpp/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
  <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/800px-Android_Studio_Logo_%282023%29.svg.png" alt="android studio" height="50" /></a> 
- <a href="https://www.dart.dev/" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" alt="Python" height="50"></a> 
+ <a href="https://www.dart.dev/" target="_blank"><img style="margin: 15px" src="https://i.pinimg.com/736x/6b/98/de/6b98de9984f5034809ce04dd8bdf8b5e.jpg" alt="Python" height="50"></a> 
 
 
 </div>  
