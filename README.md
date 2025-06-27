@@ -37,7 +37,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="springBoot" height="50" /></a>  
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="springBoot" height="52" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/800px-Webysther_20160423_-_Elephpant.svg.png" alt="php" height="52" /></a>
-<a href="https://react.dev/" target="_blank"><img    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/640px-React_Logo_SVG.svg.png" alt="react" height="50" /></a>  
+<a href="https://react.dev/" target="_blank"><img    src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="react" height="50" /></a>  
 </div>  
 
 # my projects over the years 
