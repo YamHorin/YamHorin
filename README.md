@@ -25,7 +25,7 @@
  <a href="https://www.w3schools.com/cpp/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
  <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/800px-Android_Studio_Logo_%282023%29.svg.png" alt="android studio" height="50" /></a> 
  <a href="https://www.dart.dev/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Python" height="50"></a> 
- <a href="www.mongodb.com" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="mongoDB" height="50" /></a>  
+ <a href="www.mongodb.com" target="_blank"><img style="margin: 15px" src="https://www.svgrepo.com/show/354090/mongodb.svg" alt="mongoDB" height="50" /></a>  
 
 
 
