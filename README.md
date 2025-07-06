@@ -14,7 +14,7 @@
 🌐 <a href="https://www.linkedin.com/in/yam-horin"> You can also find me on LinkedIn  </a> 
 
 🤖 Feel free to explore my repositories and don't hesitate to drop me a message! 
-
+<!--
 # my skill set ^_^
 <div align="center">  
  <a href="https://firebase.google.com" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="pytorch" height="10" /></a>  
