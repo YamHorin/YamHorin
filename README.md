@@ -5,7 +5,7 @@
 
 💬  welcome 
 
-🙌 currently working as a BI developer 
+🙌 currently working as a BI and JAVA intergration developer at metropolinet israel 
 
 🌱 currently in finale-year B.Sc. in software engineering specializing in Machine Learning and AI, while actively developing my skills in various programming environments.
 
