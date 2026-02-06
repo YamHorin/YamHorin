@@ -21,7 +21,9 @@
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
  <a href="https://www.w3schools.com/cpp/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
  <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 15px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="android studio" height="50" /></a> 
- <a href="https://www.dart.dev/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Python" height="50"></a> 
+ <a href="https://www.dart.dev/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="dart" height="50"></a> 
+ <a href="https://www.goanywhere.com/products/goanywhere-mft" target="_blank"><img style="margin: 15px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOdRHB_D5zDygrHSTQ4LP-u3qO7xBhMYA5Q&s" alt="go_anywhere_mft" height="50"></a> 
+
 
 
 
@@ -32,8 +34,11 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="springBoot" height="50" /></a>  
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="springBoot" height="52" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="springBoot" height="50" /></a>  
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="springBoot" height="52" /></a> 
+ <a href="https://www.oracle.com" target="_blank"><img style="margin: 15px" src="https://wp.logos-download.com/wp-content/uploads/2022/12/Oracle_SQL_Developer_Logo.png?dl"alt="oracle_sql" height="50"></a> 
+<a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1280px-New_Power_BI_Logo.svg.png"alt="power_bi" height="50"></a> 
+
 </div>  
 
 # my projects over the years 
